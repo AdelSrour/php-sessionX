@@ -1,5 +1,5 @@
 <?php
-require_once("session.php");
+require_once("sessionX.php");
 $session = new x_session([
     //Settings
     //The location where your session files will be stored
